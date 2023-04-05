@@ -1,0 +1,4 @@
+enum AppStatus {
+  LOADING,
+  IDLE,
+}
